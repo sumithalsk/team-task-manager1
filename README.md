@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Team Task Manager
 
 A professional, clean, and modern full-stack web application for managing team projects and tasks with role-based access control.
@@ -127,3 +128,6 @@ quantum-circuit-simulation-qiskit/
 # quantum-circuit-simulation-qiskit
 >>>>>>> 9d4a649aed1d551daace47827859a91cfd497912
 >>>>>>> d48e65199bdc21faab2f7b09a7057f3821f8ec9a
+=======
+# team-task-manager1
+>>>>>>> 5f7a24ecf8130e3f1f20fb2b918cfeae83789606
